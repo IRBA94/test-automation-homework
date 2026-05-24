@@ -1,2 +1,3 @@
 # test-automation-homework
-Credo Academy Test automation course
+Course: Credo Academy Test automation course
+Author: Irakli Barbakadze
